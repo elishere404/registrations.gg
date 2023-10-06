@@ -45,8 +45,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 We would like to express our gratitude to the open-source community for their valuable contributions and support.
 
----
-
-[![Website](https://img.shields.io/badge/Website-Visit-9cf)](https://example.com)
-[![Documentation](https://img.shields.io/badge/Documentation-Read-brightgreen)](https://docs.example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/example)
